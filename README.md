@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), with the deprecated (and now security vulnerability dense) `react-scripts` replaced with [R3F Pack](https://github.com/Sean-Bradley/R3F-Pack).
 
 ## Available Scripts
 
